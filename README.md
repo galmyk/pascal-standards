@@ -60,6 +60,8 @@ X3J9, Programming Language Pascal, a subcommitte of the Accredited
 Standards Committee, X3. The draft is public domain and can be freely
 used provided a reference to its source is made.
 
+Download: [Original HTML File](https://raw.githubusercontent.com/gmt3141/pascal-standards/main/OOE-stds.html)
+
 # Referrences
 
 1. [https://en.wikipedia.org/wiki/Pascal_(programming_language)](https://en.wikipedia.org/wiki/Pascal_(programming_language))
